@@ -1,13 +1,15 @@
 👋 Hi, I'm Dominic
 
 🎓 High school student passionate about technology and growth
+
 💻 Currently learning Python
+
 🤖 Interested in AI Engineering and Software Development
 
 🌱 What I’m Working On
-Improving my Python skills
-Learning problem-solving through coding
-Exploring AI concepts and programming fundamentals
+* Improving my Python skills
+* Learning problem-solving through coding
+* Exploring AI concepts and programming fundamentals
 
 🛠️ Tech Stack
 Python
