@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there 👋 
 
-<!--
-**DCollins2027/DCollins2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dominic. 
 
-Here are some ideas to get you started:
+I am a high school student learning Computer Programming. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning: Python. 
+
+👀 I’m interested in: AI Engineering and Programming. 
+
+📫 How to reach me: Don't 
+
+Hi, I'm Dominic. I'm a high school student learning Python. I'm interested in AI Engineering and Programming.
+
+<p align="center"> 
+
+  <a href="https://www.linkedin.com/in/dominic-collins-4657b83b6/"> 
+
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+
+  </a> 
+
+  <br> 
+
+  📫 How to reach me: <a href="mailto:gci.253078@students.geneseeisd.org">gci.253078@students.geneseeisd.org</a> 
+
+</p> 
