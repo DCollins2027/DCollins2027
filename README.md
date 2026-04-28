@@ -25,3 +25,25 @@ Hi, I'm Dominic. I'm a high school student learning Python. I'm interested in AI
   📫 How to reach me: <a href="mailto:gci.253078@students.geneseeisd.org">gci.253078@students.geneseeisd.org</a> 
 
 </p> 
+
+<p align='center'> 
+
+   <a href="https://github-readme-stats.vercel.app/api?username=DCollins2027&show_icons=true&count_private=true"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=DCollins2027&show_icons=true&count_private=true"/> 
+
+   </a> 
+
+   <a href="https://github.com/DCollins2027/github-readme-stats"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCollins2027&layout=compact"/> 
+
+   </a> 
+
+</p> 
+
+## Technology Stack
+* Python
+* Github
+* CodeHS
+* CS50
