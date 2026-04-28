@@ -8,7 +8,7 @@ I am a high school student learning Computer Programming.
 
 👀 I’m interested in: AI Engineering and Programming. 
 
-📫 How to reach me: Don't 
+📫 How to reach me: gci.253078@students.geneseeisd.org
 
 Hi, I'm Dominic. I'm a high school student learning Python. I'm interested in AI Engineering and Programming.
 
