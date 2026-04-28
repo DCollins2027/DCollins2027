@@ -1,49 +1,24 @@
-### Hi there 👋 
+👋 Hi, I'm Dominic
 
-My name is Dominic. 
+🎓 High school student passionate about technology and growth
+💻 Currently learning Python
+🤖 Interested in AI Engineering and Software Development
 
-I am a high school student learning Computer Programming. 
+🌱 What I’m Working On
+Improving my Python skills
+Learning problem-solving through coding
+Exploring AI concepts and programming fundamentals
 
-🌱 I’m currently learning: Python. 
+🛠️ Tech Stack
+Python
+GitHub
+CodeHS
+CS50
 
-👀 I’m interested in: AI Engineering and Programming. 
+📊 GitHub Stats
+<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=DCollins2027&show_icons=true&count_private=true"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCollins2027&layout=compact"/> </p>
 
-📫 How to reach me: gci.253078@students.geneseeisd.org
+📫 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/dominic-collins-4657b83b6/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
-Hi, I'm Dominic. I'm a high school student learning Python. I'm interested in AI Engineering and Programming.
-
-<p align="center"> 
-
-  <a href="https://www.linkedin.com/in/dominic-collins-4657b83b6/"> 
-
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
-
-  </a> 
-
-  <br> 
-
-  📫 How to reach me: <a href="mailto:gci.253078@students.geneseeisd.org">gci.253078@students.geneseeisd.org</a> 
-
-</p> 
-
-<p align='center'> 
-
-   <a href="https://github-readme-stats.vercel.app/api?username=DCollins2027&show_icons=true&count_private=true"> 
-
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=DCollins2027&show_icons=true&count_private=true"/> 
-
-   </a> 
-
-   <a href="https://github.com/DCollins2027/github-readme-stats"> 
-
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCollins2027&layout=compact"/> 
-
-   </a> 
-
-</p> 
-
-## Technology Stack
-* Python
-* Github
-* CodeHS
-* CS50
+📧 Email: gci.253078@students.geneseeisd.org
